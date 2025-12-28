@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+hh#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 RiMusic - Downloader moderno com metadados OFICIAIS do Spotify
