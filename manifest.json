@@ -1,0 +1,10 @@
+{
+  "id": "com.beatboss.addon.youtube",
+  "name": "YouTube Music",
+  "version": "1.0.0",
+  "description": "Busca e stream de músicas diretamente do YouTube. Sem conta, sem token.",
+  "author": "BeatBoss Community",
+  "logo": "https://www.youtube.com/favicon.ico",
+  "types": ["music"],
+  "resources": ["search", "catalog"]
+}
